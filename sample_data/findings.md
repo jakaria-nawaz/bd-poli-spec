@@ -8,7 +8,7 @@ These findings describe Bangladesh's politically engaged online youth,
 not the general population.
 
 ## 1. The Centrist Illusion
-52.4% of self-labelled Centrists have a
+52.4% of algorithm-classified Centrists have a
 negative (left-of-centre) economic score.
 
 ## 2. Biggest Gender Gap

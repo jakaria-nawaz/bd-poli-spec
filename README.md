@@ -13,7 +13,7 @@ Open analysis of the **Bam-Dan Political Compass Survey** — a self-selected on
 | Finding | Detail |
 |---|---|
 | Largest group | Centrist (47.9%) |
-| Centrist illusion | 52.4% of self-labelled Centrists score left-of-centre economically |
+| Centrist illusion | 52.4% of algorithm-classified Centrists score left-of-centre economically |
 | Biggest gender gap | Q16 — equal property rights (female mean +0.59 vs male −0.23, gap = 0.82) |
 | Most agreed | Q17 — strict environmental rules for factories (mean = 1.40) |
 | Most divisive | Q9 — laws should follow religious rules (std dev = 1.48, bimodal) |

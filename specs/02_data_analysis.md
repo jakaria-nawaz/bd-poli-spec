@@ -255,7 +255,7 @@ Columns: result_label, count, percentage
 **Key finding to write into findings.md:**
 80% lean economically left-of-centre by score, but only 9.5% call
 themselves "Leftist". The word carries negative weight in Bangladesh.
-This gap between score and self-label is the most interesting finding.
+This gap between score and algorithm-assigned label is the most interesting finding.
 
 ---
 
@@ -280,7 +280,7 @@ Facebook because it challenges self-perception.
 - 'Centrist' labelled respondents overlaid in amber (alpha=0.4, size=12)
 - Draw quadrant lines at x=0 and y=0 (grey dashed)
 - Annotate: what % of Centrist dots sit in x < 0 (left half)
-- Title: "Where do self-labelled Centrists actually sit on the compass?"
+- Title: "Where do algorithm-classified Centrists actually sit on the compass?"
 
 **Table:** `private_analysis/tables/02_centrist_breakdown.csv`
 
@@ -623,7 +623,7 @@ These findings describe Bangladesh's politically engaged online youth,
 not the general population.
 
 ## 1. The Centrist Illusion
-{pct_centrists_scoring_left:.1f}% of self-labelled Centrists have a
+{pct_centrists_scoring_left:.1f}% of algorithm-classified Centrists have a
 negative (left-of-centre) economic score.
 
 ## 2. Biggest Gender Gap
