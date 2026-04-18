@@ -1,0 +1,23 @@
+question_id,question_text,home_mean,abroad_mean,home_classification,abroad_classification,gap,p_value
+1,State should control major industries & businesses,-0.44,-0.64,Polarised — two opposing camps,Leaning disagree — but divided,-0.2,0.0
+2,Business should be open to all — no govt interference,1.1,0.97,Majority agree — but divided,Leaning agree — but divided,-0.13,0.000268
+3,Tax the rich more to help the poor,0.82,0.69,Leaning agree — but divided,Leaning agree — but divided,-0.13,0.000797
+4,Govt should not interfere in how businesses operate,-0.39,-0.39,Polarised — two opposing camps,Polarised — two opposing camps,-0.0,0.917489
+5,Worker unions should be stronger,0.98,0.89,Moderate agreement,Leaning agree — but divided,-0.1,0.00653
+6,Foreign companies should get special incentives to invest,0.52,0.67,Leaning agree — but divided,Leaning agree — but divided,0.15,3.9e-05
+7,Education & healthcare should be completely free for all,0.9,0.86,Leaning agree — but divided,Leaning agree — but divided,-0.04,0.303564
+8,Everyone has full rights over their own property,0.7,0.49,Leaning agree — but divided,Polarised — two opposing camps,-0.21,0.0
+9,Laws should follow religious rules,0.26,0.04,Polarised — two opposing camps,Polarised — two opposing camps,-0.23,0.0
+10,Religion is personal — state should treat all equally,0.89,0.84,Leaning agree — but divided,Leaning agree — but divided,-0.05,0.204384
+11,Traditional family & social norms matter more than modernity,-0.16,-0.15,Polarised — two opposing camps,Polarised — two opposing camps,0.01,0.728559
+12,Society should not restrict what people wear or how they behave,0.26,0.25,Polarised — two opposing camps,Polarised — two opposing camps,-0.01,0.828869
+13,Religious education should be compulsory in schools,0.81,0.57,Leaning agree — but divided,Leaning agree — but divided,-0.24,0.0
+14,Freedom of speech — even if it hurts someone,0.67,0.56,Leaning agree — but divided,Leaning agree — but divided,-0.11,0.005724
+15,Our culture must be protected from foreign influence,0.87,0.64,Leaning agree — but divided,Leaning agree — but divided,-0.23,0.0
+16,Men and women should have equal property rights,-0.14,-0.13,Polarised — two opposing camps,Polarised — two opposing camps,0.01,0.817809
+17,Strict rules & fines for factories to protect environment,1.41,1.23,Strong consensus — agree,Majority agree — but divided,-0.18,0.0
+18,Some environmental damage is acceptable for economic growth,-0.39,-0.44,Polarised — two opposing camps,Polarised — two opposing camps,-0.05,0.169596
+19,State should equally support all religious festivals,1.15,1.03,Majority agree — but divided,Majority agree — but divided,-0.11,0.001338
+20,Strictly ban anything that hurts religious sentiments,1.17,0.89,Majority agree — but divided,Leaning agree — but divided,-0.28,0.0
+21,Indigenous/ethnic minorities deserve special rights & protection,1.04,0.87,Strong consensus — agree,Leaning agree — but divided,-0.16,3e-06
+22,Same rules for everyone — no special treatment for any group,0.11,0.05,Polarised — two opposing camps,Polarised — two opposing camps,-0.06,0.14633

@@ -1,0 +1,7 @@
+firebase-admin
+pandas
+pyarrow
+jupyter
+matplotlib
+seaborn
+scipy

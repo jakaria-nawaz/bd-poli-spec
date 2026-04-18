@@ -1,0 +1,101 @@
+age,gender,education,occupation,probashi,createdAt,meta_platform,meta_language,q_1,q_2,q_3,q_4,q_5,q_6,q_7,q_8,q_9,q_10,q_11,q_12,q_13,q_14,q_15,q_16,q_17,q_18,q_19,q_20,q_21,q_22,economicScore,socialScore,resultLabel
+25-34,male,ssc_hsc,student,no,2026-04-10T10:11:31.074Z,Linux armv81,en-GB,-1,2,1,1,2,1,2,-1,2,1,1,2,2,1,2,-1,2,-1,2,2,2,1,-2.0,1.25,Centrist
+25-34,male,below_ssc,other,no,2026-04-11T03:36:51.655Z,Linux armv81,en-US,2,-2,2,-2,2,-2,2,-2,-2,2,-2,2,-2,2,2,2,2,2,2,-2,2,-2,-8.0,-8.333333333333334,Leftist
+25-34,female,bachelor_masters,student,no,2026-04-10T18:27:44.425Z,Linux aarch64,en-BD,0,0,2,-1,2,1,2,0,-2,2,-1,2,-1,2,0,2,2,-2,2,0,2,-1,-5.0,-7.083333333333334,Leftist
+18-24,male,bachelor_masters,student,no,2026-04-11T04:20:37.466Z,Linux aarch64,en-BD,-1,1,2,-1,0,1,-2,-1,2,-1,0,-1,2,1,1,-2,1,0,1,2,1,2,0.0,4.166666666666667,Religious Left
+18-24,male,ssc_hsc,student,no,2026-04-13T08:50:49.647Z,Linux aarch64,en-CH,-2,2,1,0,2,2,2,2,1,2,0,1,2,2,2,-2,2,1,2,2,1,-1,1.0,0.0,Centrist
+25-34,male,bachelor_masters,business,no,2026-04-11T11:48:29.916Z,Linux armv81,en-GB,-2,2,-1,1,-1,-2,2,-2,-1,1,-2,-1,2,2,1,-1,2,1,1,1,-1,1,0.0,0.41666666666666663,Centrist
+25-34,male,bachelor_masters,other,no,2026-04-10T09:56:47.960Z,Linux armv8l,en-GB,1,2,0,-2,1,1,1,-1,1,2,-2,-2,1,1,-1,0,2,-1,2,2,1,1,-3.0,-0.8333333333333333,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-10T10:05:59.418Z,Linux aarch64,en-GB,-1,2,0,-1,1,1,2,-1,-2,1,0,1,2,2,1,-2,2,1,2,1,1,-1,-1.0,-1.6666666666666665,Center Left
+25-34,female,bachelor_masters,other,no,2026-04-10T10:46:15.350Z,Linux aarch64,en-US,0,2,0,-1,2,-1,2,-1,-2,2,0,1,0,1,2,1,2,-1,2,1,2,-1,-4.0,-3.75,Leftist
+18-24,male,ssc_hsc,student,no,2026-04-16T05:52:54.173Z,Linux armv81,en-US,-1,1,0,-1,1,1,1,1,0,1,-1,-1,1,1,0,-1,1,-1,1,1,-1,1,-0.5,0.8333333333333333,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T18:04:36.306Z,iPhone,en-GB,-2,2,1,-1,1,2,2,1,-1,2,-1,1,1,2,1,1,2,0,2,2,2,2,0.0,-2.5,Centrist
+25-34,male,bachelor_masters,service,no,2026-04-11T15:11:28.895Z,Linux aarch64,en-US,-1,2,2,1,1,-1,2,1,1,2,2,0,2,2,2,-1,2,-2,1,1,1,-1,-2.5,0.8333333333333333,Centrist
+18-24,male,ssc_hsc,student,no,2026-04-10T09:43:24.691Z,Linux armv7l,en-GB,1,0,1,0,2,0,2,1,-1,2,0,1,0,2,1,1,1,0,2,0,2,1,-3.0,-3.75,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-11T03:44:49.727Z,Linux aarch64,en-US,-2,2,1,-1,0,-1,2,-1,2,-2,1,-1,2,1,2,-2,1,0,1,2,1,2,-1.5,5.416666666666666,Religious Left
+18-24,female,ssc_hsc,student,no,2026-04-10T10:26:58.249Z,Linux armv8l,en-GB,-1,1,1,0,1,-1,1,-1,1,2,-1,2,2,2,2,1,2,-1,2,2,2,-2,-3.0,-2.916666666666667,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-10T12:27:39.448Z,Linux armv81,en-GB,-1,1,2,-1,1,1,1,2,-1,1,-1,-1,0,0,-1,-1,-1,0,-2,1,-2,2,0.5,2.0833333333333335,Center Right
+25-34,male,bachelor_masters,student,no,2026-04-10T16:21:25.656Z,Linux aarch64,en-GB,-2,2,0,-1,1,1,-1,1,1,-1,-1,1,0,1,0,-2,1,-1,1,1,0,1,1.5,0.8333333333333333,Center Right
+18-24,male,bachelor_masters,student,no,2026-04-10T11:33:18.667Z,Linux aarch64,en-GB,0,2,0,1,-1,2,2,2,0,-1,-2,2,1,-2,-2,-2,-2,2,1,0,1,-1,5.0,-1.25,Centrist
+25-34,male,bachelor_masters,student,no,2026-04-10T04:43:29.587Z,Linux armv81,en-US,2,-2,2,-2,2,-1,2,0,-2,2,-1,2,-2,1,1,2,2,-2,1,-2,1,0,-8.5,-6.25,Leftist
+18-24,male,bachelor_masters,student,no,2026-04-10T14:26:31.379Z,Linux armv81,en-GB,0,1,2,-2,1,-1,1,-1,2,-1,0,-1,2,2,1,1,1,0,2,2,1,-1,-4.0,0.8333333333333333,Centrist
+18-24,male,ssc_hsc,student,no,2026-04-10T11:15:58.674Z,Linux armv81,en-GB,-1,1,1,-1,2,1,2,-1,1,1,-2,-1,2,-1,2,-2,2,-1,1,1,1,1,-3.5,2.5,Centrist
+25-34,male,bachelor_masters,service,no,2026-04-10T14:06:22.886Z,Linux armv81,en-US,-2,2,-1,-2,1,-1,2,1,-1,1,-1,2,1,-1,-1,1,2,-1,2,2,1,1,-1.5,-2.0833333333333335,Center Left
+25-34,male,bachelor_masters,student,no,2026-04-10T08:26:30.810Z,Linux aarch64,en-US,-1,2,2,-1,-1,-1,2,2,-2,1,-1,2,0,1,-1,1,2,1,0,-2,0,-1,-0.5,-5.0,Center Left
+18-24,male,ssc_hsc,student,no,2026-04-10T09:46:12.524Z,Linux armv81,en-US,1,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,-1,1,-1,1,1,1,-1,-2.0,0.0,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T09:41:29.306Z,Linux armv8l,en-GB,-1,1,1,-1,1,1,-1,1,2,-1,2,1,2,-1,1,-1,1,-1,0,2,1,1,0.0,4.583333333333333,Religious Left
+18-24,female,bachelor_masters,student,no,2026-04-11T08:53:49.806Z,Linux aarch64,en-GB,2,2,2,0,2,0,2,2,-2,2,0,2,-1,2,1,2,2,-1,2,0,2,0,-3.5,-5.833333333333334,Leftist
+18-24,male,bachelor_masters,student,no,2026-04-10T12:30:01.134Z,Linux armv81,en-GB,-2,2,-1,2,1,2,2,2,1,2,-1,1,2,1,2,1,2,-2,1,2,1,2,2.0,0.41666666666666663,Center Right
+25-34,male,bachelor_masters,student,no,2026-04-17T16:34:29.212Z,Linux aarch64,en-US,1,1,0,0,1,1,1,-1,1,-1,0,-2,1,-1,0,-1,0,1,0,1,-1,1,-0.5,4.166666666666667,Religious Left
+25-34,male,bachelor_masters,service,no,2026-04-10T14:17:01.254Z,Linux aarch64,en-US,2,-2,2,-2,2,-1,2,-1,-2,2,-2,2,-2,2,1,2,2,-2,1,-2,1,-1,-9.0,-7.5,Leftist
+18-24,male,bachelor_masters,student,no,2026-04-10T12:56:04.147Z,Linux aarch64,en-BD,-1,1,2,-1,-1,1,2,-1,1,2,0,0,2,-1,0,-1,2,0,2,2,2,-1,-2.0,0.0,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T17:05:11.761Z,Linux armv81,en-GB,1,1,-1,-1,1,1,-1,2,0,2,2,1,1,1,2,-1,2,-2,1,1,2,2,-0.5,0.8333333333333333,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T08:52:09.025Z,Linux aarch64,en-BD,-2,2,1,-1,1,0,1,1,2,-2,-1,-2,2,0,2,-1,1,-1,-2,2,-2,-1,-0.5,6.25,Religious Left
+25-34,male,bachelor_masters,business,no,2026-04-10T09:44:15.620Z,Linux aarch64,en-US,-1,1,0,-1,0,-1,1,1,1,1,0,1,1,1,1,0,1,-1,1,1,0,1,-1.0,0.41666666666666663,Centrist
+18-24,male,bachelor_masters,service,no,2026-04-10T16:31:37.255Z,Linux armv81,en-GB,1,1,1,-1,2,0,2,1,2,2,1,1,1,0,0,0,1,-1,2,2,-1,1,-3.5,1.25,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T12:10:56.857Z,Linux aarch64,en-US,1,-1,1,-1,1,-1,1,0,-1,1,0,-1,1,0,1,1,1,-1,1,1,1,1,-4.5,0.0,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T10:10:53.740Z,Linux armv8l,en-GB,-1,-1,-1,1,1,-1,-1,0,-1,-1,1,1,1,1,1,-1,1,1,1,1,1,1,0.5,0.8333333333333333,Center Right
+18-24,male,ssc_hsc,student,no,2026-04-10T16:21:55.733Z,Linux armv8l,en-GB,-1,-1,1,-1,1,-1,2,-1,-1,-2,1,-2,2,0,1,-1,2,1,1,2,1,0,-4.0,3.333333333333333,Centrist
+18-24,male,below_ssc,student,no,2026-04-17T15:58:43.172Z,Linux armv81,en-GB,1,0,2,-2,2,-1,2,-2,2,2,-1,-2,2,2,0,-1,2,0,-2,2,2,2,-7.0,2.5,Centrist
+25-34,male,bachelor_masters,student,no,2026-04-10T15:52:36.157Z,Linux x86_64,en-US,-1,-1,1,-1,1,1,2,0,0,2,0,-1,1,2,1,1,2,1,1,-1,1,-1,-2.5,-2.5,Center Left
+55+,male,below_ssc,business,no,2026-04-12T04:41:41.507Z,Linux aarch64,en-GB,-2,2,-2,2,-2,2,-2,2,2,-2,2,-2,2,-2,2,-2,-2,2,-2,2,-2,2,10.0,10.0,Religious Right
+25-34,male,bachelor_masters,student,no,2026-04-10T09:16:26.763Z,Linux armv81,en-US,-1,1,1,1,1,0,1,1,2,-1,-1,-2,1,0,1,-1,1,1,1,2,-1,1,0.5,4.166666666666667,Religious Right
+18-24,male,bachelor_masters,student,no,2026-04-11T07:51:06.446Z,Linux aarch64,en-US,1,2,2,-1,1,1,2,2,2,2,-1,0,2,1,1,1,2,0,1,2,2,-1,-2.0,-0.8333333333333333,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-11T17:02:49.088Z,Linux aarch64,en-US,1,0,2,-2,1,-1,2,1,-2,2,0,1,-1,1,1,2,2,-2,2,1,2,-1,-6.0,-5.0,Leftist
+18-24,female,bachelor_masters,student,no,2026-04-10T18:06:41.716Z,Linux aarch64,en-BD,-2,2,1,-1,2,-1,2,2,-2,2,-2,2,1,1,1,2,2,1,2,2,2,-2,-1.0,-5.416666666666666,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-12T18:28:31.869Z,Linux aarch64,en-IN,-2,1,1,1,2,1,2,0,2,1,0,-1,2,0,-1,-1,1,-2,1,2,1,1,-1.5,2.0833333333333335,Centrist
+35-44,male,bachelor_masters,other,no,2026-04-12T08:24:50.418Z,Linux aarch64,en-GB,-1,1,2,-2,2,1,2,1,1,2,1,1,1,-1,2,-1,2,-2,2,1,1,2,-4.0,1.6666666666666665,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-12T13:29:26.102Z,Linux armv81,en-US,-2,2,1,-2,2,-2,2,2,2,2,-2,2,2,2,-2,-2,2,-2,2,2,2,-2,-3.5,-3.333333333333333,Leftist
+18-24,male,bachelor_masters,student,no,2026-04-10T09:46:13.667Z,Linux armv81,en-US,-2,1,2,-1,2,-1,2,-1,2,-2,1,-1,2,-1,2,-2,1,-1,0,2,1,0,-4.0,5.833333333333334,Religious Left
+25-34,male,ssc_hsc,business,no,2026-04-10T09:50:28.145Z,Linux aarch64,en-US,-1,1,-1,1,0,1,-1,2,2,-2,1,-2,1,-2,1,-2,2,-2,1,2,2,-2,2.0,4.166666666666667,Religious Right
+25-34,male,bachelor_masters,service,no,2026-04-10T14:09:51.769Z,Linux aarch64,en-US,-2,2,-1,-1,1,-1,2,-2,2,2,-1,-1,2,1,-1,-2,2,-2,2,2,2,0,-3.0,0.0,Centrist
+25-34,male,bachelor_masters,student,no,2026-04-10T09:28:44.168Z,iPhone,en-GB,-1,1,2,-1,1,1,2,1,-2,2,-1,2,-2,2,1,1,1,1,2,2,2,-1,-1.0,-5.833333333333334,Center Left
+25-34,male,bachelor_masters,service,no,2026-04-10T17:47:55.565Z,Linux armv81,en-US,-2,2,2,1,-1,2,2,2,2,0,-2,1,2,0,2,0,2,1,-1,2,0,2,2.5,3.333333333333333,Center Right
+18-24,male,ssc_hsc,student,no,2026-04-13T17:58:45.653Z,Win32,en-US,-1,1,1,0,1,1,1,-1,1,-2,-2,2,-1,-1,-1,-1,1,-1,1,1,1,-1,-1.5,-1.25,Center Left
+25-34,male,bachelor_masters,service,no,2026-04-10T12:27:04.199Z,Linux armv81,en-US,-1,2,-1,2,1,2,-2,2,2,-1,1,-2,1,1,1,-2,1,0,1,1,1,2,5.0,4.166666666666667,Religious Right
+18-24,male,ssc_hsc,service,yes,2026-04-10T10:32:35.270Z,Linux aarch64,en-GB,1,2,-1,-2,2,2,2,0,2,1,-2,-2,2,0,-1,-2,2,0,1,2,-1,2,-2.0,3.333333333333333,Centrist
+25-34,male,bachelor_masters,service,no,2026-04-12T06:56:01.028Z,Linux armv81,en-US,-2,1,1,-2,1,1,-1,-1,2,-1,-1,-2,2,1,-1,-2,2,-2,-1,2,1,-1,-2.0,2.916666666666667,Centrist
+18-24,male,phd,student,no,2026-04-10T13:40:33.930Z,Linux armv81,en-US,0,0,1,-1,1,-2,2,0,-2,2,-2,2,-2,2,0,1,0,1,2,-2,2,0,-3.0,-7.916666666666666,Center Left
+18-24,female,bachelor_masters,student,no,2026-04-10T07:04:24.085Z,Linux armv7l,en-US,0,1,1,-1,1,1,2,1,1,1,0,1,2,0,2,0,2,-1,1,2,1,2,-2.5,2.0833333333333335,Centrist
+35-44,male,phd,service,no,2026-04-10T14:03:30.667Z,iPhone,en-US,0,1,2,-1,0,2,2,1,-2,2,-1,2,-2,2,1,2,2,1,2,0,2,-1,-1.0,-7.083333333333334,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-12T04:40:14.799Z,Linux armv81,en-GB,2,-2,2,-2,0,-2,2,2,2,-2,2,-2,2,-2,2,-2,0,0,-2,2,-2,2,-5.0,10.0,Religious Left
+25-34,male,ssc_hsc,student,no,2026-04-10T19:51:05.410Z,Linux aarch64,en-GB,-2,2,1,1,2,1,-1,2,1,2,1,0,1,2,1,1,1,-2,2,2,2,1,1.5,-0.8333333333333333,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T13:43:49.832Z,Linux aarch64,en-US,2,2,2,-2,2,-2,2,2,-2,2,-2,2,-2,2,2,2,2,-2,2,-2,2,2,-6.0,-6.666666666666666,Leftist
+18-24,male,bachelor_masters,student,no,2026-04-10T17:34:31.352Z,Linux aarch64,en-BD,2,2,2,2,-2,2,2,2,2,2,-2,-2,2,2,2,2,2,0,-2,2,-2,2,1.0,3.333333333333333,Center Right
+18-24,male,ssc_hsc,student,no,2026-04-10T15:46:50.903Z,Linux armv81,en-US,1,2,1,1,2,2,2,2,-1,2,2,2,2,-1,2,2,2,-1,2,2,2,-2,-1.0,-1.6666666666666665,Center Left
+18-24,male,bachelor_masters,student,yes,2026-04-12T02:17:18.886Z,Linux armv81,en-GB,-1,2,1,-1,2,1,2,1,2,-1,1,1,2,2,1,-1,1,-1,2,2,0,0,-1.5,2.0833333333333335,Centrist
+25-34,male,bachelor_masters,student,no,2026-04-10T10:33:21.259Z,Linux aarch64,en-US,-1,1,-1,1,2,1,1,-1,-1,2,-1,2,1,1,1,1,1,-1,2,1,2,-2,-0.5,-4.583333333333333,Center Left
+25-34,male,bachelor_masters,student,no,2026-04-16T09:58:50.280Z,Linux aarch64,en-GB,-2,2,0,-1,2,0,2,1,1,1,-1,0,1,1,1,1,2,0,2,2,2,-2,-1.0,-2.0833333333333335,Center Left
+18-24,male,ssc_hsc,student,no,2026-04-10T15:32:16.732Z,Linux armv81,en-US,-2,1,2,2,2,2,2,2,-2,2,-2,2,-2,2,0,1,2,-1,2,2,1,2,0.0,-5.0,Centrist
+25-34,male,bachelor_masters,student,no,2026-04-11T07:25:27.435Z,Linux aarch64,en-BD,-1,0,1,1,1,1,1,-1,2,-2,-2,-2,2,-2,2,1,2,-2,0,2,2,-2,-2.5,2.916666666666667,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T12:15:11.093Z,iPhone,en-GB,-2,2,1,1,1,1,2,2,0,1,-1,1,1,-1,1,1,1,1,2,2,1,-1,2.0,-1.25,Centrist
+18-24,male,ssc_hsc,business,no,2026-04-11T09:30:04.701Z,Linux armv81,en-GB,-1,2,-1,1,2,0,1,2,2,1,-1,1,2,1,2,-2,1,-1,1,2,1,1,1.0,2.0833333333333335,Center Right
+18-24,male,bachelor_masters,student,no,2026-04-10T10:34:58.908Z,Linux armv81,en-US,-1,1,1,1,2,1,-1,0,-1,1,1,1,1,2,1,0,2,0,2,1,2,-1,0.0,-2.5,Centrist
+25-34,male,bachelor_masters,service,no,2026-04-10T10:14:40.222Z,Linux aarch64,en-US,0,1,-1,-1,-1,-2,1,1,2,0,0,-1,2,-1,-1,-2,2,-1,1,2,-1,2,-1.5,4.583333333333333,Religious Left
+18-24,male,bachelor_masters,student,no,2026-04-10T13:37:58.255Z,Linux armv81,en-GB,-1,1,1,-1,1,1,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,1,1,1,0.0,0.0,Centrist
+18-24,female,bachelor_masters,student,no,2026-04-10T08:57:12.012Z,Linux aarch64,en-GB,0,1,1,0,1,1,1,1,-1,1,-1,2,1,1,0,0,1,0,2,2,1,1,-0.5,-2.0833333333333335,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-11T07:42:05.150Z,iPhone,en-GB,0,1,1,-1,1,1,1,1,1,-1,-1,-1,1,1,1,1,1,-1,1,1,1,-1,-1.5,0.0,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-11T10:05:46.025Z,Linux aarch64,en-GB,-2,2,1,-1,1,2,1,2,-1,1,1,1,1,-2,-1,-2,1,-1,-2,2,-2,2,1.0,4.166666666666667,Religious Right
+18-24,male,ssc_hsc,student,no,2026-04-11T05:32:35.961Z,Linux armv8l,en-US,-1,1,1,1,1,1,2,2,1,2,0,2,1,2,0,-1,1,1,2,2,2,-1,1.0,-2.5,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-11T06:01:23.161Z,Linux aarch64,en-GB,-2,2,1,1,1,0,2,0,1,1,1,0,2,1,1,-2,1,1,2,2,1,-1,0.5,1.25,Center Right
+18-24,male,bachelor_masters,student,no,2026-04-10T17:40:04.165Z,Linux aarch64,en-GB,-1,2,1,1,0,1,1,1,-1,1,-1,1,1,1,1,-1,1,-1,2,2,2,-1,1.0,-2.0833333333333335,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T20:07:46.638Z,Linux aarch64,en-US,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0.0,0.0,Centrist
+25-34,male,bachelor_masters,service,no,2026-04-11T12:19:06.565Z,Linux aarch64,en-BD,-2,1,-1,-1,-1,2,-1,-1,1,1,1,1,1,1,-1,-1,1,-2,2,2,2,2,1.5,0.0,Centrist
+35-44,male,bachelor_masters,service,no,2026-04-12T05:38:56.274Z,Win32,en-US,-1,2,2,1,1,1,1,1,1,1,-2,2,1,2,1,1,2,-2,-1,1,0,-1,-1.0,-1.6666666666666665,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-10T17:45:24.631Z,Linux aarch64,en-US,1,1,1,-2,2,1,2,2,2,2,2,-2,2,-2,2,-2,2,2,2,2,1,1,-2.0,5.0,Religious Left
+18-24,male,bachelor_masters,service,no,2026-04-11T05:09:55.672Z,Linux aarch64,en-US,-2,2,-2,-1,1,1,0,2,-2,2,2,2,-2,2,0,2,2,1,2,-2,-1,1,3.0,-5.0,Centrist
+55+,male,bachelor_masters,student,no,2026-04-10T17:07:12.314Z,Linux armv81,en-GB,-2,2,2,-2,2,1,1,1,0,1,-1,1,0,2,1,2,1,1,-2,1,-2,2,-0.5,0.41666666666666663,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-10T10:32:18.885Z,Win32,en-US,1,2,1,0,2,-1,1,-1,0,0,1,2,1,2,2,0,1,-1,2,2,2,2,-3.5,0.0,Centrist
+18-24,male,ssc_hsc,student,no,2026-04-10T17:10:42.457Z,Linux aarch64,en-US,-1,1,2,-2,1,0,2,1,2,-2,0,-2,2,1,0,-2,2,0,1,1,-1,1,-3.0,4.583333333333333,Religious Left
+18-24,male,bachelor_masters,student,no,2026-04-10T09:35:31.339Z,Linux armv81,en-GB,-1,2,-1,-1,0,-1,1,-1,-1,1,0,1,1,-1,0,-1,1,0,1,2,1,0,-0.5,0.0,Centrist
+18-24,male,bachelor_masters,service,no,2026-04-10T12:50:08.887Z,Linux aarch64,en-BD,-1,-2,1,-1,1,1,-1,1,1,1,0,-1,1,1,-1,-1,1,-1,1,1,1,-1,-1.5,-0.41666666666666663,Center Left
+25-34,male,bachelor_masters,student,no,2026-04-10T09:28:20.627Z,Linux armv81,en-US,2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2.0,-1.6666666666666665,Center Left
+25-34,male,phd,student,yes,2026-04-10T13:52:17.077Z,Linux armv81,en-US,-2,2,1,2,-2,2,1,2,-2,2,-2,2,-2,2,-1,2,0,1,0,-2,1,-1,5.5,-7.916666666666666,Centrist
+25-34,male,bachelor_masters,student,no,2026-04-12T17:45:20.517Z,Linux armv81,en-BD,-1,2,1,-1,1,-1,1,2,-1,2,1,1,1,2,2,2,2,-1,2,2,2,-1,-1.5,-2.916666666666667,Center Left
+25-34,male,bachelor_masters,student,no,2026-04-10T10:40:41.610Z,Win32,en-US,0,1,0,-1,1,1,2,-1,2,-2,1,-1,2,-1,1,-2,1,1,1,2,1,-1,-1.5,4.583333333333333,Religious Left
+18-24,male,bachelor_masters,student,no,2026-04-10T14:32:57.417Z,Linux aarch64,en-US,-1,2,0,-2,1,-1,-2,-1,2,2,-1,-1,1,2,0,-2,2,-2,1,2,1,1,-2.0,0.8333333333333333,Centrist
+55+,male,phd,student,no,2026-04-10T09:49:02.566Z,Linux armv81,en-US,2,-2,-2,-2,-2,2,-2,-2,-2,-2,2,-2,-2,-2,-2,-2,2,2,-2,-2,-2,-2,0.0,1.6666666666666665,Centrist
+18-24,male,bachelor_masters,student,no,2026-04-11T08:46:58.490Z,Linux armv81,en-BD,-2,1,1,-2,2,-1,1,-1,-2,2,-1,2,-1,1,1,2,1,-1,2,1,2,-1,-3.5,-5.833333333333334,Leftist
+25-34,male,phd,student,no,2026-04-12T06:11:19.637Z,Linux armv81,en-GB,-2,1,-2,2,0,2,1,2,-2,1,-1,2,-2,-2,0,2,-1,2,2,2,1,-1,6.5,-4.166666666666667,Centrist
+25-34,male,bachelor_masters,service,no,2026-04-10T19:31:14.001Z,Linux armv81,en-US,1,1,-1,-1,1,2,1,1,-1,1,2,1,1,0,1,0,1,-1,2,1,2,0,-0.5,-0.8333333333333333,Center Left
+18-24,male,bachelor_masters,student,no,2026-04-13T03:51:23.721Z,Linux armv81,en-US,1,1,1,-1,1,1,1,1,-2,2,-1,1,-2,1,0,1,1,-1,1,-1,1,-1,-2.0,-5.833333333333334,Center Left

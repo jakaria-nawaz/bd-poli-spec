@@ -1,0 +1,24 @@
+# Environment
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Credentials — never commit
+serviceAccountKey.json
+
+# Raw data — contains unverified PII fields; fetched locally via fetch_data.py
+data/
+
+# Private analysis outputs — charts, tables, full exports
+private_analysis/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
